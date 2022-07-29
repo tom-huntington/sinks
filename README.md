@@ -1,7 +1,7 @@
 # Sinks
 This was an idea I explored for my main project, gave up on it because the pipeline in my main project is enormous, but still believe has potential.
 
-It's a push based iteration intended for asynchronous reactive programming, based on RxCppv3 and Barry's [Rivers](https://github.com/brevzin/rivers) library.
+It's a push based iteration model intended for asynchronous reactive programming, based on RxCppv3 and Barry's [Rivers](https://github.com/brevzin/rivers) library.
 
 The idea was to get the benefits of [range-v3](https://github.com/ericniebler/range-v3), specifically type deduction. For example, `buffer_for_signal` instantiates `std::queue<int>`
 
