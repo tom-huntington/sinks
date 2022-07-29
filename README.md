@@ -1,5 +1,5 @@
 # Sinks
-This was an idea I explored for my main project, gave up on it because the pipeline in my main project is enormous, on but still believe has potential.
+This was an idea I explored for my main project, gave up on it because the pipeline in my main project is enormous, but still believe has potential.
 
 It's a push based iteration intended for asynchronous reactive programming, based on RxCppv3 and Barry's [Rivers](https://github.com/brevzin/rivers) library.
 
